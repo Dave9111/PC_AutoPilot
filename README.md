@@ -1,3 +1,3 @@
 # PC_AutoPilot
 
-A marine (sailboat) auto pilot based on common, generic PC hardware running on Windows 10
+A marine (sailboat) autopilot based on common, generic PC hardware running on Windows 10
